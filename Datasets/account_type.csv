@@ -1,0 +1,5 @@
+type_id,type_name
+1,Current
+2,Savings
+3,"Fixed Deposit"
+4,"Recurring Deposit"
